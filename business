@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <style>
+            body{
+                margin:0px
+            }
+            #header{
+background-color:black;
+height:70px;
+}
+ <h2>
+    color:golderod;
+ }
+ span{
+ color:goldenrod;
+ margin-right;30px;
+ 
+ }
+#band{
+    width:40%;
+    float:left;
+    height-align:center;
+}
+#menu{
+
+    widht:60%;
+    float:right;
+    height:70px;
+    line-height:70px;
+    text-align:center;
+
+}          
+img{
+
+border-radius: 50%;
+margin-top:10% ;
+}
+
+table{
+    widht:100%;
+    <text-align :center>
+}
+#tablelmg{
+margin-top:10%;
+
+}
+#footer{
+background-color:rgb(48,1,1);
+color:white:
+text-align:center;
+padding:40px;
+margin-top:10%
+}
+
+h3{
+
+    text-align:center:
+
+}
+h1{
+
+text-align:center:
+
+}
+p{
+    text-align:center;
+}
+</style>
+</head>
+<html>
+    <div id="header">
+        <div id="brand">
+            <h2>shubham sharma</h2>
+            </div>
+            <div id="menu"><>
+                <span>home</span>
+                <span>profit</span>
+                <span>resume</span>
+                <span>project</span>
+                </div>
+                </div>
+
+<div id="main">
+    <div>
+    
+        <div>
+            <img src="https://www.thestatesman.com/wp-content/uploads/2019/07/SUNNY-1-1024x683.jpg" width="300px" height="300px" />
+            </div>
+            <div>
+                <h3>hi there !!!</h3>
+                <h1>i am shubham sharma</h1>
+                <p> lorem  50
+                    mysearchexperts.com has been visited by 100K+ users in the past month
+
+Find info on MySearchExperts. Search for Kids english courses at MySearchExperts
+
+Internet Information · Popular Searches · Search Now
+
+            
+                </p>
+                <p>paragraph mysearchexperts.com has been visited by 100K+ users in the past month
+
+                    Find info on MySearchExperts. Search for Kids english courses at MySearchExperts
+                    
+                    Internet Information · Popular Searches · Search Now</p>
+            </div>
+        </div>
+<div id="talelmg">
+    <table>
+        <tr>
+            <td>
+                <img src="https://www.thestatesman.com/wp-content/uploads/2019/07/SUNNY-1-1024x683.jpg" wudth ="200px"
+                height="200px"/>
+                <h3>profit</h3>
+                </td>>
+                <td>
+                    <img src="https://www.thestatesman.com/wp-content/uploads/2019/07/SUNNY-1-1024x683.jpg"
+                    width="200px" height="200px"/>
+                    <h3>resume</h3>
+                    </td>
+                    <td>
+                        <img src="https://www.thestatesman.com/wp-content/uploads/2019/07/SUNNY-1-1024x683.jpg"
+                        width="200px" height="200px"/>
+        <h3>project</h3>
+        </td>
+            <td>
+                <img src="https://www.thestatesman.com/wp-content/uploads/2019/07/SUNNY-1-1024x683.jpg"
+                width="200px" height="200px">
+                <h3>contact</h3>
+                </td>>
+                </tr>
+                </table>
+                </div>
+                </div>
+                <div id="footer">
+                    <div>
+                        <img src="https://www.thestatesman.com/wp-content/uploads/2019/07/SUNNY-1-1024x683.jpg"
+                        width="100px" height="100px">
+                        </div>
+                        <div>
+                            <h4>
+                                opsearch.co has been visited by 100K+ users in the past month
+
+Results from Multiple Engines in topsearch.co. Browse & Discover Usefull Results. TopSearch is the Newest Place to Search, Delivering Top Results from Across the Web  
+    
+
+                            </div>
+<div>
+    <p>all copyright @ copy;are reserved by shubham sharma</p>
+    </div>
+    <div>
+
+
+</body>
+</html>
